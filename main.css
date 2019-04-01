@@ -1,0 +1,23 @@
+/* browser reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-color: #fff;
+}
+
+main {
+    width: 70%;
+    margin: auto;
+}
+p {
+    margin: 20px;
+}
+
+div {
+    height: 500px;
+}
